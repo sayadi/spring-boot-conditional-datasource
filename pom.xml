@@ -52,7 +52,7 @@
 			</dependencies>
 		</profile>
 		<profile>
-			<id>temp-dev</id>
+			<id>temp</id>
             <properties>
                 <spring.profile.from.maven>temp</spring.profile.from.maven>
             </properties>
